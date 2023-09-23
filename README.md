@@ -9,6 +9,15 @@ Ejecutar el siguiente comando: npm run start.
 
 La ruta del proyecto al ejecutarse: localhost:3000/generate_cv
 
+> Explicación del Proyecto:
+
+* Se cuenta con opciones para seleccionar color y tipo de cv
+* Se cuenta con Acordiones para completar la información que vea necesario para su cv
+* Para cargar Foto, se encuentra unicamente en el Acordion "Información Previa" en el ultimo campo Imagen de Perfil, podra seleccionar imagne o arrastrar una imagen para subirlo.
+* Se cuenta con boton "Descargar CV en formato JSON", le permite descargar su información para continuar en cualquier momento.
+* Se cuenta con boton "Cargar Curriculum en formato json", le permite subir su json previamente descargado, asi como permitirle subir la plantilla en la ruta "plantilla/plantilla.json"
+* Se cuenta con Boton Flotante en la parte derecha inferior, le permite visualizar su pdf con la información que tenga en el momento completado.
+
 > Requerimientos Funcionales:
 
 * Completar información de cada usuario para su respectivo cv.
