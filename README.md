@@ -2,8 +2,11 @@
 Aplicación para generar documentos pdf.
 
 >Ejecución
+
 Previo: Tener sin uso el puerto 3000 en su computador.
+
 Ejecutar el siguiente comando: npm run start.
+
 La ruta del proyecto al ejecutarse: localhost:3000/generate_cv
 
 > Requerimientos Funcionales:
