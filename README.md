@@ -18,6 +18,10 @@ Aplicación para generar documentos pdf.
 * Diseño Responsivo para dispositivos de computador, tablet y mobile.
 * Desarrollo con lenguaje React
 
+Se encuentra una plantilla del Json para cargar información en la ruta "plantilla/plantilla.json"
+
+Asi mismo lo pueden descargar del siguiente enlace: https://www.bryanarrivasplata.com/generate_cv/plantilla/plantilla.json
+
 ![generate_cv](https://github.com/bryan-arrivasplata-rojas/generate_cv_v1.0_2023/assets/97413969/752a4c6e-a35f-4872-bbca-a87c894091c7)
 ![pdf_generado](https://github.com/bryan-arrivasplata-rojas/generate_cv_v1.0_2023/assets/97413969/c0ee0d66-445e-4e58-af57-442d1799634e)
 
