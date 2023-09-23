@@ -23,9 +23,13 @@ Aplicación para generar documentos pdf.
 # Identificar el proyecto
 
 Lenguage programación: React
+
 Versión Software: 18.2.0
+
 Nombre aplicación: Generate CV
+
 Versión aplicación: 1.0
+
 Año de lanzamiento: 2023
 
 # Getting Started with Create React App
