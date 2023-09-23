@@ -1,0 +1,307 @@
+{
+  "titulo":"BRYAN ARRIVASPLATA",
+  "search":"FullStack - Backend - FrontEnd",
+  "nombres":"Bryan Daniell",
+  "apellidos":"Arrivasplata Rojas",
+  "edad":"24 años",
+  "foto":"profiles/bryan.png",
+  "tipo_selected":"tipo_1",
+  "colors":{
+    "color_left":"#3498DB",
+    "color_left_text":"#000000",
+    "color_right":"#00AAE4",
+    "color_right_text":"#FFFFFF",
+    "color_component":"#00AAE4"
+  },
+  "contacto":{
+    "titulo":"< Datos personales />",
+    "direccion":"Jirón Zorritos 1134, Lima, Perú",
+    "numero":"(+51) 997767771",
+    "correo":"bryanarrivasplata.rojas@gmail.com",
+    "github":"bryanarrivasplata",
+    "website":"www.bryanarrivasplata.com",
+    "linkedin":"in/bryanarrivasplata"
+  },
+  "informacion":{
+    "titulo":"< Acerca de mi />",
+    "descripcion":"Hola, soy Bryan Daniell Arrivasplata Rojas, estudio la carrera de Ingeniería de Sistemas en la UNI cursando el décimo ciclo. Soy una persona muy proactiva, busco siempre estar en constante capacitación y de esta manera aplicar mis conocimientos en ayudar a otras personas o en el trabajo."
+  },
+  "idiomas":{
+    "titulo":"< Idiomas />",
+    "idioma":[
+      {
+        "nombre":"Español",
+        "grado":"Nativo",
+        "nivel":10
+      },
+      {
+        "nombre":"Ingles",
+        "grado":"Básico",
+        "nivel":4
+      }
+    ]
+  },
+  "referencias":{
+    "titulo":"< Referencias />",
+    "referencia":[
+      {
+        "nombre":"Ing. Saul Festillo Fuentes Piedra",
+        "cargo":"Gerente de InnovateTech",
+        "numero":"(+51) 915645851"
+      },
+      {
+        "nombre":"Dra. Ana Paula la Mar Castilla",
+        "cargo":"Gerente Regional de Digital Solutions",
+        "numero":"(+51) 915645851"
+      },
+      {
+        "nombre":"Dr. Pablo Ruiz Diaz de la Fuente",
+        "cargo":"Supervisor de TechCo Inc",
+        "numero":"(+51) 997551243"
+      }
+    ]
+  },
+  "skills":{
+    "titulo":"< Habilidades />",
+    "skill":{
+      "destacan":{
+        "titulo":"Destacadas",
+        "destacado":[
+          "Liderazgo",
+          "Gestión Empresarial",
+          "Trabajo en Equipo",
+          "Capacidad de Comunicación",
+          "Aprendizaje Rápido",
+          "Innovación Tecnológica",
+          "Gestión del Tiempo",
+          "Gestión de Proyectos",
+          "Negociación"
+        ]
+      },
+      "no_destacan":{
+        "titulo":"No destacadas",
+        "destacado":[
+          "Extrovertido",
+          "Enseñanza"
+        ]
+      }
+    }
+  },
+  "participaciones":{
+    "titulo":"< Participaciones />",
+    "participacion":{
+      "eventos":{
+        "titulo":"Eventos",
+        "evento":[
+          {
+            "nombre":"Conferencia de Realidad Virtual y Aumentada",
+            "year":"2022",
+            "mes":"06"
+          },
+          {
+            "nombre":"Cumbre de Redes y Tecnología 5G",
+            "year":"2021",
+            "mes":"01"
+          }
+        ]
+      },
+      "charlas":{
+        "titulo":"Charlas",
+        "charla":[
+          {
+            "nombre":"Introducción a la Inteligencia Artificial",
+            "year":"2022",
+            "mes":"12"
+          },
+          {
+            "nombre":"Tendencias de Ciberseguridad",
+            "year":"2022",
+            "mes":"10"
+          }
+        ]
+      }
+    }
+  },
+  "formaciones":{
+    "titulo":"< Formación Profesional />",
+    "formacion":{
+      "profesiones":{
+        "titulo":"Educación",
+        "profesion":[
+          {
+            "grado":"Maestría",
+            "especialidad":"Desarrollo de Proyectos de Innovación y Producto",
+            "universidad":"Instituto Tecnológico de Massachusetts",
+            "year":"2022",
+            "mes":"12"
+          },
+          {
+            "grado":"Especialización",
+            "especialidad":"Gestión de proyectos",
+            "universidad":"ESAN",
+            "year":"2019",
+            "mes":"10"
+          },
+          {
+            "grado":"Título Profesional",
+            "especialidad":"Ingeniería de Sistemas",
+            "universidad":"Universidad Nacional de Ingeniería",
+            "year":"2017",
+            "mes":"10"
+          }
+        ]
+      },
+      "certificados":{
+        "titulo":"Certificaciones",
+        "certificado":[
+          {
+            "nombre":"Certificado AWS Certified Developer",
+            "year":"2022",
+            "mes":"10"
+          },
+          {
+            "nombre":"Full Stack Developer de Udacity",
+            "year":"2022",
+            "mes":"8"
+          },
+          {
+            "nombre":"Full Stack Web Developer de FreeCodeCamp",
+            "year":"2022",
+            "mes":"1"
+          },
+          {
+            "nombre":"Azure Developer Associate",
+            "year":"2021",
+            "mes":"11"
+          },
+          {
+            "nombre": "Certificado Scrum Master",
+            "year": "2021",
+            "mes": "6"
+          },
+          {
+            "nombre": "Certificado Google Analytics",
+            "year": "2020",
+            "mes": "11"
+          },
+          {
+            "nombre": "Certificado Python para Ciencia de Datos",
+            "year": "2019",
+            "mes": "9"
+          }
+        ]
+      }
+    }
+  },
+  "conocimientos":{
+    "titulo":"< Conocimiento en Desarrollo />",
+    "conocimiento":[
+      {
+        "nombre":"Spring Boot",
+        "nivel":7
+      },
+      {
+        "nombre":"Laravel",
+        "nivel":6
+      },
+      {
+        "nombre":"React",
+        "nivel":8
+      },
+      {
+        "nombre":"Angular",
+        "nivel":7
+      },
+      {
+        "nombre":"Laravel",
+        "nivel":6
+      },
+      {
+        "nombre":"Nodejs",
+        "nivel":6
+      },
+      {
+        "nombre":"HTML5",
+        "nivel":9
+      },
+      {
+        "nombre":"SCSS",
+        "nivel":6
+      },
+      {
+        "nombre":"JQuery",
+        "nivel":8
+      }
+    ]
+  },
+  "experiencias":{
+    "titulo":"< Experiencia Laboral />",
+    "experiencia":[
+      {
+        "nombre_empresa":"TechCo Inc",
+        "puesto":"Desarrollador Web Junior",
+        "descripcion":"Trabajé en el equipo de desarrollo web, donde ayudé en la creación de componentes front-end utilizando HTML, CSS y JavaScript. Colaboré en la solución de problemas técnicos y aprendí a trabajar con tecnologías como React y Redux. Participé en proyectos pequeños y contribuí al desarrollo de nuevas características.",
+        "inicio":{
+          "year":"2017",
+          "mes":"01"
+        },
+        "final":{
+          "year":"2018",
+          "mes":"12"
+        }
+      },
+      {
+        "nombre_empresa":"Digital Solutions Ltd.",
+        "puesto":"Desarrollador Full-Stack",
+        "descripcion":"Fui responsable del desarrollo completo de aplicaciones web y móviles. Trabajé en proyectos de clientes, colaboré en la definición de requisitos y lideré un equipo de desarrolladores junior. Utilicé tecnologías como React, Node.js y MongoDB para crear soluciones personalizadas y escalables.",
+        "inicio":{
+          "year":"2019",
+          "mes":"01"
+        },
+        "final":{
+          "year":"2021",
+          "mes":"06"
+        }
+      },
+      {
+        "nombre_empresa":"InnovateTech Systems",
+        "puesto":"Arquitecto de Software Senior",
+        "descripcion":"Lideré la arquitectura y el desarrollo de sistemas complejos. Trabajé en la toma de decisiones de diseño y colaboré con equipos interdisciplinarios en la implementación de soluciones empresariales críticas. Supervisé el rendimiento y la escalabilidad de las aplicaciones y participé en la formación de equipos junior.",
+        "inicio":{
+          "year":"2022",
+          "mes":"08"
+        },
+        "final":{}
+      }
+    ]
+  },
+  "proyectos":{
+    "titulo":"< Proyectos propios />",
+    "proyecto":[
+      {
+        "nombre":"Portafolio en Línea",
+        "descripcion":"Creación de un sitio web personal para mostrar mi experiencia, habilidades y proyectos. Incluye secciones interactivas y una descripción detallada de mis capacidades.",
+        "lenguajes":"HTML | CSS | JavaScript (React)",
+        "enlace":"https://www.bryanarrivasplata.com/"
+      },
+      {
+        "nombre":"TaskMaster",
+        "descripcion":"Desarrollo de una aplicación web para gestionar tareas y proyectos. Permite a los usuarios crear, editar y marcar tareas como completadas.",
+        "lenguajes":"HTML | CSS | JavaScript (React) | Node.js | MongoDB",
+        "enlace":"https://www.bryanarrivasplata.com/taskmaster"
+      },
+      {
+        "nombre":"PuzzleMania 3D",
+        "descripcion":"Creación de un juego en línea de rompecabezas en 3D que desafía a los jugadores a resolver acertijos. El juego presenta gráficos 3D y una jugabilidad adictiva.",
+        "lenguajes":"Unity (C#)",
+        "enlace":"https://www.bryanarrivasplata.com/puzzle3d"
+      },
+      {
+        "nombre":"InventoryPro",
+        "descripcion":"Diseño y desarrollo de un sistema de gestión de inventarios para una empresa. Permite realizar un seguimiento de productos, realizar pedidos y generar informes de inventario.",
+        "lenguajes":"HTML | CSS | JavaScript | PHP | MySQL",
+        "enlace":"https://www.bryanarrivasplata.com/inventorypro"
+      }
+    ]
+  }
+}

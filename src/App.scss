@@ -1,0 +1,127 @@
+body{
+    overflow-y: auto;
+}
+.app{
+    .app-header{
+        position: fixed;
+        z-index: 9998;
+        width: 100%;
+    }
+    .app-body{
+        div.cv{
+            div{
+                h1{
+                    text-align: center;
+                }
+                
+                div.row{
+                    div.colorComponent{
+                        ul.list-group{
+                            li.list-group-item{
+                                div.row{
+                                    align-items: center;
+                                }
+                            }
+                        }
+                    }
+                    text-align: center;
+                }
+            }
+        }
+        position: relative;
+    }
+    .app-footer{
+        .navbar{
+            .container-fluid{
+                place-content: center;
+            }
+        }
+        .container-fluid{
+            #btnGenerarCurriculum{
+                h3{
+                    margin: 0px;
+                }
+                border-radius: 100%;
+                width: 60px;
+                height: 60px;
+                text-align-last: center;
+                font-weight: 500;
+                margin-right: 0px !important;
+                
+                display: grid;
+                place-content: center;
+                
+            }
+            text-align-last: right;
+        }
+        position: fixed;
+        z-index: 9998;
+        right: 0;
+        bottom: 10px !important;
+    }
+}
+@media (max-width: 992px){
+    .btnWidth{
+        width: 100%;
+        margin: 2px;
+    }
+}
+@media (max-width: 992px){
+    .colorButton{
+        padding: 0px !important;
+    }
+}
+#InputInformacionDescripcion{
+    height: 5em;
+}
+#example tr button{
+    margin: 1px;
+}
+.file-input {
+    width: 100%;
+    height: 150px;
+    padding: 10px;
+    border: 2px dashed #cccccc;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    color: #888888;
+}
+/* Ocultar el botón de "Elegir archivos" */
+.file-input::-webkit-file-upload-button {
+    display: none;
+}
+
+.file-input:hover {
+    border-color: #aaaaaa;
+}
+
+.file-input:focus {
+    outline: none;
+}
+#InputJson{
+    height: 200px;
+    text-align-last: center;
+    margin-bottom: 10px !important;
+    right: 0px;
+    position: fixed;
+    bottom: 0px;
+}
+.flecha {
+    position: absolute;
+    bottom: -690%;
+    right: 0%;
+    font-size: 25rem;
+    color: #007bff;
+    transform: translateY(-50%) rotate(45deg);
+}
+.texto-flecha {
+    position: absolute;
+    bottom: 300%;
+    right: 100%;
+    font-size: 2rem;
+    transform: translateY(-50%) rotate(45deg);
+    color: #007bff;
+    text-align: center; /* Centra el texto horizontalmente */
+    white-space: nowrap; /* Evita que el texto se divida en varias líneas */
+}
