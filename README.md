@@ -18,6 +18,8 @@ La ruta del proyecto al ejecutarse: localhost:3000/generate_cv
 * Se cuenta con boton "Cargar Curriculum en formato json", le permite subir su json previamente descargado, asi como permitirle subir la plantilla en la ruta "plantilla/plantilla.json"
 * Se cuenta con Boton Flotante en la parte derecha inferior, le permite visualizar su pdf con la información que tenga en el momento completado.
 
+* Como aspecto de seguridad no se guarda información de ningun usuario, ni su foto procesada en el servidor.
+
 > Requerimientos Funcionales:
 
 * Completar información de cada usuario para su respectivo cv.
