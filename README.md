@@ -2,23 +2,24 @@
 
 Aplicación para generar documentos pdf.
 
-![generate_cv](https://github.com/bryan-arrivasplata-rojas/generate_cv_v1.0_2023/assets/97413969/752a4c6e-a35f-4872-bbca-a87c894091c7)
-![pdf_generado](https://github.com/bryan-arrivasplata-rojas/generate_cv_v1.0_2023/assets/97413969/c0ee0d66-445e-4e58-af57-442d1799634e)
-
 > Requerimientos Funcionales:
 
-* Completar información de cada usuario para su respectivo cv
-* Subir imagen del usuario en caso requerir
-* Modificar combinación de colores del cv
-* Seleccionar el tipo de cv diseñado
+* Completar información de cada usuario para su respectivo cv.
+* Subir imagen de cada usuario en caso requerir.
+* Modificar combinación de colores del cv.
+* Seleccionar la plantilla de cv diseñado.
+* El usuario puede elegir que secciones completar para su CV
 * Descargar toda su información completada en formato JSON para su uso futuro.
 * Cargar el archivo json con toda su información para poder realizar modificaciones o agregar.
-* Visualizar el PDF en todo momento que la información este completada.
+* Visualizar el PDF en todo momento con la información que este completada.
 
 > Requerimientos No Funcionales:
 
 * Diseño Responsivo para dispositivos de computador, tablet y mobile.
 * Desarrollo con lenguaje React
+
+![generate_cv](https://github.com/bryan-arrivasplata-rojas/generate_cv_v1.0_2023/assets/97413969/752a4c6e-a35f-4872-bbca-a87c894091c7)
+![pdf_generado](https://github.com/bryan-arrivasplata-rojas/generate_cv_v1.0_2023/assets/97413969/c0ee0d66-445e-4e58-af57-442d1799634e)
 
 # Identificar el proyecto
 
